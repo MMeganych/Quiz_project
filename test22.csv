@@ -1,0 +1,6 @@
+Questions,Reply
+"For Unix, the epoch is January 1, 1970, 00:00:00 (UTC)",T
+"E.g. on most Unix systems, the clock �ticks� only 50 or 1000 times a second.",F
+"To find out what the epoch is on a given platform, look at gmtime(0).",T
+"time.altzone, Nonzero if a DST timezone is defined ?",F
+"UTC is Daylight Saving Time, an adjustment of the timezone by (usually) one hour during partof the year.",F
